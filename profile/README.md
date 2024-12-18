@@ -31,10 +31,10 @@
   - 회원 정보 CRUD, 내 반려견 목록 조회 및 등록 가능
     
   - 선호 시설과 선호 지역 정보 수정 가능 <br>
-  <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="220">
-  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="220"> 
-  <img src="https://github.com/user-attachments/assets/ad1e2fcf-f465-4a9d-8ed6-63fadd5d2c99" width="220">
-  <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="220">
+  <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="200">
+  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="200"> 
+  <img src="https://github.com/user-attachments/assets/ad1e2fcf-f465-4a9d-8ed6-63fadd5d2c99" width="200">
+  <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="200">
 <br>
 
 ### 3. 반려동물 정보 관리
@@ -51,9 +51,9 @@
 - JooQ를 도입하여 로그인 여부에 따른 좋아요 검색, 페이징 여부에 따른 검색 등 동적으로 검색 가능
   
 - 기상청 단기 예보 조회 API와 중기 예보 조회 API를 사용하여 지역 선택 시 당일부터 10일 후까지의 날씨 정보 제공 <br>
-  <img src="https://github.com/user-attachments/assets/06945f78-48b1-40f8-9024-412028dee7ab" width="280">
-  <img src="https://github.com/user-attachments/assets/f8e289f6-0793-4dd2-8466-5ab83a498f84" width="280">
-  <img src="https://github.com/user-attachments/assets/0cc44480-665e-4ed5-91e2-06fe785f7e5c" width="280">
+  <img src="https://github.com/user-attachments/assets/06945f78-48b1-40f8-9024-412028dee7ab" width="230">
+  <img src="https://github.com/user-attachments/assets/f8e289f6-0793-4dd2-8466-5ab83a498f84" width="230">
+  <img src="https://github.com/user-attachments/assets/0cc44480-665e-4ed5-91e2-06fe785f7e5c" width="230">
 
 <br>
 
@@ -127,11 +127,11 @@
 - 이미지는 다운로드 및 공유 가능
 - 나의 멍생네컷 목록과 전체 멍생네컷 목록 조회
  <br>
-  <img src="https://github.com/user-attachments/assets/26849813-adcc-41cd-aa4e-d766e38b28a0" width="280">
-  <img src="https://github.com/user-attachments/assets/04b02e95-2c74-4b40-a53d-bca7416e0b55" width="280">
-  <img src="https://github.com/user-attachments/assets/b7a833f8-88fd-4f0e-8d19-66f4e5194599" width="280"> <br>
-  <img src="https://github.com/user-attachments/assets/3b48ad9a-01b2-4442-be59-c3067f78a3b3" width="280">
-  <img src="https://github.com/user-attachments/assets/e1bab160-b24c-4bd4-893c-6adb17fb2045" width="280">
+  <img src="https://github.com/user-attachments/assets/26849813-adcc-41cd-aa4e-d766e38b28a0" width="230">
+  <img src="https://github.com/user-attachments/assets/04b02e95-2c74-4b40-a53d-bca7416e0b55" width="230">
+  <img src="https://github.com/user-attachments/assets/b7a833f8-88fd-4f0e-8d19-66f4e5194599" width="230"> <br>
+  <img src="https://github.com/user-attachments/assets/3b48ad9a-01b2-4442-be59-c3067f78a3b3" width="230">
+  <img src="https://github.com/user-attachments/assets/e1bab160-b24c-4bd4-893c-6adb17fb2045" width="230">
 
   
 <br>
