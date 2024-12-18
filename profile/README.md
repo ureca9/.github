@@ -58,10 +58,15 @@
 - 즐겨찾기 한 장소의 위치를 핀을 통해 알 수 있다.
   
 - 지도에서 장소를 검색할 수 있다.
+  <br>
+  <img src="https://github.com/user-attachments/assets/2c164a0c-5740-40f6-8b2f-47e6f25ab148" width="400">
+  <img src="https://github.com/user-attachments/assets/6af37592-f6e0-4c49-9f95-08f12b7c1e19" width="400">
 
 <br>
 
 ### 8. 길찾기
+- 현재 위치에서 특정 장소까지 가는 길을 조회할 수 있다. <br>
+    <img src="https://github.com/user-attachments/assets/372ca62c-91ea-4004-b770-450c6dc04c72" width="400">
 
 <br>
 
