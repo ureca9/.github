@@ -31,10 +31,10 @@
   - 회원 정보 CRUD, 내 반려견 목록 조회 및 등록 가능
     
   - 선호 시설과 선호 지역 정보 수정 가능 <br>
-  <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="230">
-  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="230"> 
-  <img src="https://github.com/user-attachments/assets/ad1e2fcf-f465-4a9d-8ed6-63fadd5d2c99" width="230">
-  <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="230">
+  <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="240">
+  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="240"> 
+  <img src="https://github.com/user-attachments/assets/ad1e2fcf-f465-4a9d-8ed6-63fadd5d2c99" width="240">
+  <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="240">
 <br>
 
 ### 3. 반려동물 정보 관리
