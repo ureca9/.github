@@ -15,7 +15,7 @@
 | <img src="https://github.com/user-attachments/assets/209ee765-9f67-40bb-a5fc-44a588733c8c" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d045766b-332a-4cd2-ae44-213ab1442187" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/c5d2312e-8c9a-442e-ae41-1f8fc8541db9" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/71b3624e-d71a-48d2-9dda-53bc94cb4a9a" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/01189ba3-399d-48e0-83c9-691c1404b3d5" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d85c19eb-1072-48f5-b127-42cd9dfc662d" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/a252f1bf-36b4-4222-b6d3-c151f586d1c3" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/84dcdda9-9d55-413f-853e-caf1ea384d37" width="100px;" alt=""/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [고창준](https://github.com/ckdwns1221) | [금세현](https://github.com/shkum0330) | [김병옥](https://github.com/OkKim99) | [김영동](https://github.com/youngdongkim1) | [이신지](https://github.com/kuma0112) | [이은석](https://github.com/EunSeok-222) | [장현희](https://github.com/hhJ830) | [채희원](https://github.com/heeeione) | 
-| <b> FE </b> | <b> BE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> | <b> FE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> |
+| <b> FE </b> | <b> BE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> |
 
 <br>
 
