@@ -10,13 +10,22 @@
   <img src="https://github.com/user-attachments/assets/d2252adf-1129-466d-a8fc-43e70b03be4e" width="400">
 
 <br>
-  
-### 2. 반려동물 정보 관리
-- 반려동물 프로필 관리 (CRUD)
+
+### 2. 마이페이지
+  - 선호 시설과 선호 지역 정보를 수정할 수 있다. <br>
+  <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="400">
+  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="400">
 
 <br>
 
-### 3. 검색
+### 3. 반려동물 정보 관리
+- 반려동물 프로필 관리 (CRUD) <br>
+  <img src="https://github.com/user-attachments/assets/58c1bae1-030b-4914-8f18-671dc7c3ce1e" width="300">
+  <img src="https://github.com/user-attachments/assets/9b99baec-89a1-4fbf-8aa6-c0ba26ed1210" width="300">
+
+<br>
+
+### 4. 검색
 - 검색어로 검색 <br>
   <img src="https://github.com/user-attachments/assets/a5ce31d5-1cf8-4729-bc17-0af179335a4c" width="400">
   
@@ -27,21 +36,21 @@
   
 <br>
 
-### 4. 즐겨찾기
+### 5. 즐겨찾기
 - 장소에 즐겨찾기를 할 수 있고, 즐겨찾기 한 장소를 모아 볼 수 있다.
 
 
 
 <br>
 
-### 5. 후기
+### 6. 후기
 - 장소에 사진, 영상을 포함한 후기를 남길 수 있고, 내가 쓴 후기를 모아 볼 수 있다.
   <img src="https://github.com/user-attachments/assets/0fbcbd6f-c071-43fc-9153-798fae13bdb7" width="500">
   <img src="https://github.com/user-attachments/assets/98ad9968-101d-45ea-b40c-a23eadaebe6f" width="500">
 
 <br>
 
-### 6. 지도
+### 7. 지도
 - 즐겨찾기 한 장소의 정보를 알 수 있다.
   
 - 즐겨찾기 한 장소의 위치를 핀을 통해 알 수 있다.
@@ -50,11 +59,11 @@
 
 <br>
 
-### 7. 길찾기
+### 8. 길찾기
 
 <br>
 
-### 8. 추천
+### 9. 추천
 - 콘텐츠 기반 필터링과 협업 필터링을 사용하여 보다 정확한 추천
   
 - 협업 필터링에서 대규모 데이터 처리와 기계 학습 기반 추천 라이브러리 Mahout을 사용
@@ -67,20 +76,20 @@
 
 <br>
 
-### 9. 조회 수 기반 핫한 장소
+### 10. 조회 수 기반 핫한 장소
 - 조회 수를 기반으로 핫한 장소를 카테고리 별로 조회할 수 있다. <br>
   <img src="https://github.com/user-attachments/assets/eff33e23-8282-4f3c-a4e5-60f5ff722dc1" width="500">
 
 <br>
 
-### 10. 최근 본 장소
+### 11. 최근 본 장소
 - 최근 본 장소를 조회할 수 있다. <br>
-  <img src="https://github.com/user-attachments/assets/fd0a9bee-f673-480f-98c6-f26cc56aa677" width="400">
+  <img src="https://github.com/user-attachments/assets/a3acaaf8-6777-4335-bd51-107127a80837" width="400">
   <img src="https://github.com/user-attachments/assets/9ec52872-f1d1-4f1e-a9bc-eee631e8e52e" width="400">
 
 <br>
 
-### 11. 멍생네컷
+### 12. 멍생네컷
 - 프레임과 이미지 4장을 골라 멍생네컷을 만들 수 있다. <br>
   <img src="https://github.com/user-attachments/assets/04b02e95-2c74-4b40-a53d-bca7416e0b55" width="300">
   <img src="https://github.com/user-attachments/assets/b7a833f8-88fd-4f0e-8d19-66f4e5194599" width="300">
