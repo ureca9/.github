@@ -14,7 +14,9 @@
 ### 2. 마이페이지
   - 선호 시설과 선호 지역 정보를 수정할 수 있다. <br>
   <img src="https://github.com/user-attachments/assets/46c795a6-c8c0-4be6-8080-e4e37ba86ed4" width="400">
-  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="400">
+  <img src="https://github.com/user-attachments/assets/e32e0996-7e0d-4473-9048-1e39aac1237d" width="400"> <br>
+  <img src="https://github.com/user-attachments/assets/ad1e2fcf-f465-4a9d-8ed6-63fadd5d2c99" width="400">
+  <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="400">
 
 <br>
 
@@ -27,7 +29,7 @@
 
 ### 4. 검색
 - 검색어로 검색 <br>
-  <img src="https://github.com/user-attachments/assets/a5ce31d5-1cf8-4729-bc17-0af179335a4c" width="400">
+  <img src="https://github.com/user-attachments/assets/a5ce31d5-1cf8-4729-bc17-0af179335a4c" width="300">
   
 - 지역, 날짜, 같이 갈 반려동물 선택 후 해당 정보를 반영하여 장소 검색
 - JooQ를 도입하여 로그인 여부에 따른 좋아요 검색, 페이징 여부에 따른 검색 등 동적으로 검색 가능
