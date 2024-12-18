@@ -1,6 +1,6 @@
 # 🐾 강아지 동반 시설 공유 플랫폼, 멍티비티
 <img src="https://github.com/user-attachments/assets/c235d4cd-6332-48f8-bd19-211a31f2a7f5" width="400">
-<img src="https://github.com/user-attachments/assets/6f07a9de-d098-44da-86ae-fe03204dbef8" width="200">
+<img src="https://github.com/user-attachments/assets/7c92d559-c956-4133-a249-d1d4f04b5375" width="200">
 <img src="https://github.com/user-attachments/assets/74634f39-bf1f-40d0-8177-fadec20ee1ec" width="200">
 
 <br><br>
