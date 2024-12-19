@@ -58,6 +58,8 @@
 **2. 구체적인 검색 필터 제공**
 - 지역과 장소명 검색은 물론, 반려동물의 종이나 체중에 따른 입장 가능 여부까지 세부적으로 검색할 수 있습니다.
 - 검색 시 지역별 날씨 정보도 함께 제공하여 사용자가 더욱 편리하게 검색할 수 있도록 지원합니다.
+<br/>
+
 
 ## 👩‍💻 서비스 소개
 ### 개요
@@ -174,16 +176,20 @@
   <img src="https://github.com/user-attachments/assets/e1bab160-b24c-4bd4-893c-6adb17fb2045" width="230">
 
   
-<br>
+<br/>
+
 
 ## 🖥️ Software Arichtecture 
 ![스크린샷 2024-12-19 135045](https://github.com/user-attachments/assets/da8a15c8-f025-4a3c-985d-34437012e3bd)
 
+
 ## 💡 Information Arichtecture
 ![IA (1)](https://github.com/user-attachments/assets/8c1b95da-f5e0-4770-9fc8-94528f609d78)
 
+
 ## 📜 ERD
-![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753)
+![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753) <br/>
+
 
 ## ⚒️기술 스택
 ### 📘 [Fronte-End]
@@ -207,6 +213,8 @@
 ### 📕 Co-Working-Tool
 - <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 - <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white">
+<br/>
+
 
 ## 🗂️ Convention
 ### Branch Architecture
