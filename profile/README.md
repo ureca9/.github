@@ -142,4 +142,4 @@
 ![image](https://github.com/user-attachments/assets/255d3865-cbaf-4f4b-99d4-d12fa8c14483)
 
 # 💡 ERD
-![멍멍99](https://github.com/user-attachments/assets/6f3e987f-a69f-4df8-9e6f-70fcd05f6e65)
+![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753)
