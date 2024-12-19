@@ -200,7 +200,41 @@
 - <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=Zustand&logoColor=F7D331"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">  <img src="https://img.shields.io/badge/MSW-171717?style=for-the-badge&logo=Chromatic&logoColor=FF6A33">  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
 - <img src="https://img.shields.io/badge/Vite-B050F6?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/Stroybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white"> <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=Chromatic&logoColor=white">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
- 
+<br/>
+
+
+**React**
+- 사용자 인터페이스를 구축하기 위한 JavaScript 라이브러리로, 컴포넌트 기반 아키텍처를 통해 재사용성과 유지보수성을 높입니다.
+
+**Tailwind CSS**
+- 유틸리티 퍼스트 CSS 프레임워크로, 미리 정의된 클래스명을 사용하여 빠르고 효율적으로 스타일링할 수 있습니다. 커스터마이징이 용이하여 반응형 디자인에 적합합니다.
+
+**Zustand**
+- 경량 상태 관리 라이브러리로, React 애플리케이션의 상태를 간편하게 관리할 수 있도록 돕습니다. 간단한 API와 훅을 제공하여 개발자 경험을 개선합니다.
+
+**Yarn**
+- JavaScript 패키지 매니저로, 패키지 의존성을 관리하고 설치 속도를 개선합니다. npm보다 빠르고, 안정적인 설치를 지원하여 팀원 간의 일관성을 유지합니다.
+
+**MSW (Mock Service Worker)**
+- API 요청을 가로채고 모의 응답을 제공하여, 프론트엔드 개발 및 테스트를 용이하게 하는 라이브러리입니다. 실시간으로 API를 모킹할 수 있어 개발 과정에서 유용합니다.
+
+**Axios**
+- Promise 기반의 HTTP 클라이언트로, API와의 통신을 간편하게 처리할 수 있게 도와줍니다. 요청 및 응답을 쉽게 변환하고, 다양한 설정이 가능합니다.
+
+**Vite**
+- 빠른 빌드 및 개발 서버를 제공하는 차세대 프론트엔드 빌드 도구로, 핫 모듈 교체(HMR)가 지원되어 개발 속도를 크게 향상시킵니다. ES 모듈을 기반으로 하여 최적화된 번들링을 제공합니다.
+
+**Storybook**
+- UI 컴포넌트를 독립적으로 개발하고 문서화할 수 있는 도구로, 다양한 상태를 시각적으로 확인할 수 있게 해줍니다. UI 개발을 보다 효율적으로 진행할 수 있도록 지원합니다.
+
+**Chromatic**
+- Storybook과 통합되어 UI 컴포넌트의 시각적 변화를 관리하는 서비스로, 자동화된 시각적 테스트와 리뷰 기능을 제공합니다. 팀원 간의 협업을 개선하는 데 도움을 줍니다.
+
+**JavaScript**
+- 웹 개발의 핵심 프로그래밍 언어로, 클라이언트 측 및 서버 측에서 동작하며, 비동기 프로그래밍, DOM 조작, 이벤트 처리 등을 통해 인터랙티브한 웹 애플리케이션을 구축할 수 있습니다.
+<br/>
+
+
 ### 📗 [Back-End]
 - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
@@ -213,6 +247,8 @@
 - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 
 - <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=for-the-badge&logo=Amazon Elastic Load Balancing&logoColor=white">
+<br/>
+
 
 **Spring Security**
 - 애플리케이션의 인증과 권한 관리를 구현하기 위한 보안 프레임워크입니다.
@@ -249,6 +285,9 @@
 
 **ELB (Elastic Load Balancer)**
 - 애플리케이션 서버의 트래픽을 분산 처리하여 가용성과 안정성을 높입니다.
+<br/>
+
+
 
 ### 📕 Co-Working-Tool
 - <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
