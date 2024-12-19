@@ -1,12 +1,18 @@
 # 🐾 강아지 동반 시설 공유 플랫폼, 멍티비티
+<div>
+  <b>배포 주소</b> : https://mungtivity.vercel.app/ 
+</div>
 <img src="https://github.com/user-attachments/assets/c235d4cd-6332-48f8-bd19-211a31f2a7f5" width="400">
 <img src="https://github.com/user-attachments/assets/7c92d559-c956-4133-a249-d1d4f04b5375" width="200">
 <img src="https://github.com/user-attachments/assets/74634f39-bf1f-40d0-8177-fadec20ee1ec" width="200">
 
 <br><br>
 
-# 멍티비티
-개발 기간: 2024.11.12 ~ 2024.12.19
+# 프로젝트 소개
+멍티비티(반려경 동반 가능 시설 플랫폼)
+현대 사회에서 반려동물은 가족의 일원으로 자리 잡고 있습니다. 이에 따라 반려견과 함께할 수 있는 공간에 대한 수요가 증가하고 있으며, 반려견과 함께 이동할 수 있는 시설에 대한 정보 또한 중요해졌습니다. 본 프로젝트는 반려견 동반 가능 시설을 찾고자 하는 반려인과 이러한 시설을 제공하는 사업자를 연결하는 플랫폼을 개발하는 것을 목표로 합니다.
+
+프로젝트 기간: 2024.11.12 ~ 2024.12.19
 
 <br>
 
@@ -17,11 +23,33 @@
 | [고창준](https://github.com/ckdwns1221) | [금세현](https://github.com/shkum0330) | [김병옥](https://github.com/OkKim99) | [김영동](https://github.com/youngdongkim1) | [이신지](https://github.com/kuma0112) | [이은석](https://github.com/EunSeok-222) | [장현희](https://github.com/hh830) | [채희원](https://github.com/heeeione) | 
 | <b> FE </b> | <b> BE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> |
 
+---
+## R&R
+| 파트 | 이름 | 역할 |
+| ------------ | -------------------------------------------------------------- | ----------------------------------------------------- |
+| **FE** | 고창준 | 피그마 디자인, 소셜 로그인, 회원정보 등록, 관심사 설정, 멍샌네컷 담당 |
+| **BE** | 금세현 | 즐겨찾기, 후기, 금칙어 필터링 |
+| **BE** | 김병옥 | 반려동물 CRUD, 견종 검색, 실시간 인기장소 조회, 장소 상세 조회 |
+| **FE** | 김영동 | 메인페이지, 추천 장소 조회, 핫한 장소 조회, 검색 기능 |
+| **BE** | 이신지 | 소셜 로그인, 회원 등록 및 관리, 장소/펜션 검색, 멍생네컷 |
+| **FE** | 이은석 | 반려동물 CRUD, 견종 검색, 실시간 인기장소 조회, 장소 상세 조회, 최근 본 목록 조회 |
+| **BE** | 장현희 | 추천 시스템, 크롤링, 날씨 API, 지도 기 |
+| **FE** | 채희원 | 지도 API, 즐겨찾기, 장소 검색, 최근 검색 기록, 길찾기 |
 <br>
 
 ---
 
-# 👩‍💻 주요 기능
+# 서비스 개발 동기 및 목적
+반려동물을 양육하고 있는 가구는 23년 기준 28.2%로 점점 증가하는 추세이고, 그 중에서도 강아지를 키우는 비율이 높은 것을 확인할 수 있었습니다
+하지만 반려동물 출입 가능 장소는 제한되어 있고, 이에 대한 정보를 기존 지도에서 쉽게 찾기가 어려웠습니다.
+따라서 저희 서비스는 사용자가 '반려동물 동반 가능 시설을 손쉽게 조회하는 것'과 '반려동물과의 추억 기록'을 목표로 서비스를 개발하였습니다.
+
+# 문제 정의와 솔루션
+
+
+# 👩‍💻 서비스 소개
+## 개요
+## 주요 기능
 ### 1. 소셜 로그인
 - 카카오 소셜 로그인<br>
   <img src="https://github.com/user-attachments/assets/d2252adf-1129-466d-a8fc-43e70b03be4e" width="300">
@@ -138,8 +166,78 @@
 
 
 ---
-# 💡 소프트웨어 아키텍처
-![image](https://github.com/user-attachments/assets/255d3865-cbaf-4f4b-99d4-d12fa8c14483)
+# 💡 Software Arichtecture 
+![스크린샷 2024-12-19 135045](https://github.com/user-attachments/assets/da8a15c8-f025-4a3c-985d-34437012e3bd)
+
+# Information Arichtecture
+![IA (1)](https://github.com/user-attachments/assets/8c1b95da-f5e0-4770-9fc8-94528f609d78)
 
 # 💡 ERD
 ![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753)
+
+# 기술 스택
+## Fronte-End
+## Back-End
+## Co-Working-Tool
+
+# Convention
+## Fronte-End
+### Branch Architecture
+master: 배포가 되는 브랜치
+develop: 배포전 임시
+KAN-[number]: Jira 스토리 번호
+
+### 생성되는 jira branch 이름
+![Group 39659](https://github.com/user-attachments/assets/f9db5dff-116c-4bf4-a234-09e0f8ba4a67)
+
+### Commit
+---
+<b> Commit Format </b>
+Type: content
+
+```
+feat: Seo 기능 추가
+
+feat: Header 스타일 추가
+
+git commit -m "feat: "
+```
+
+<b> Commit Type </b>
+| 타입         |설명                                                           | 예시                                                  |
+| ------------ | -------------------------------------------------------------- | ----------------------------------------------------- |
+| **feat**     | 새로운 기능을 추가할 때 사용합니다.                            | `feat: 로그인 폼 유효성 검사 추가`                 |
+| **fix**      | 버그를 수정할 때 사용합니다.                                   | `fix: 로그인 버그 수정`                            |
+| **style**    | 사용자 인터페이스 관련 변경 사항.                              | `style: 네비게이션 바 디자인 수정`                 |
+| **refactor** | 버그 수정이나 기능 추가 없이 코드 구조를 개선할 때 사용합니다. | `refactor: 컴포넌트 상태 관리 로직 단순화`         |
+| **perf**     | 성능을 개선하는 코드 변경.                                     | `perf: 이미지 로딩 시간 최적화`                   |
+| **test**     | 테스트 코드를 추가하거나 수정할 때 사용합니다.                 | `test: 버튼 컴포넌트에 대한 단위 테스트 추가`      |
+| **docs**     | 문서만 변경할 때 사용합니다.                                   | `docs: 설치 단계 README에 추가`                    |
+| **chore**    | 소스나 테스트 파일을 수정하지 않는 일반적인 작업이나 업데이트. | `chore: 종속성 패키지 업데이트`                    |
+| **revert**   | 이전 커밋을 되돌릴 때 사용합니다.                              | `revert: "로그인 폼 유효성 검사 추가" 커밋 되돌림` |
+| **init**     | 프로젝트 초기 설정 시 사용합니다.                              | `init: React 프로젝트 초기 설정`                   |
+| **delete**   | 코드/파일 삭제.                                                | `delete: 안 쓰는 로그인 컴포넌트 삭제`             |
+| **wip**      | 작업 중이거나 실험적인 변경 사항.                              | `wip: 새로운 인증 방법을 실험 중`                  |
+
+### Pull Request
+---
+### Description
+
+```
+## 작업 내용
+
+- 작업 내용 1
+- 작업 내용 2
+
+## 이슈
+- 어떤 이슈가 있는지 작성
+
+## 참고
+
+- 구현한 화면이나 영상
+- bug fix면 어떻게 해결했는지
+```
+
+
+## Back-End
+
