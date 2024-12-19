@@ -214,6 +214,42 @@
 
 - <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon ELB-8C4FFF?style=for-the-badge&logo=Amazon Elastic Load Balancing&logoColor=white">
 
+**Spring Security**
+- 애플리케이션의 인증과 권한 관리를 구현하기 위한 보안 프레임워크입니다.
+
+**JWT (JSON Web Token)**
+- 사용자 인증 정보를 안전하게 주고받을 수 있는 토큰 기반 인증 방식입니다.
+
+**Spring Data JPA**
+- 테이블을 객체로 매핑해 쿼리를 자동으로 생성하며, 복잡한 관계를 효율적으로 처리합니다.
+
+**Spring Data JDBC**
+- Batch 처리 등 대량 데이터 삽입 작업을 빠르고 간단하게 수행할 수 있습니다.
+
+**Spring Batch**
+- 대용량 데이터를 효율적으로 처리하기 위한 배치 프로세싱 프레임워크입니다.
+
+**JOOQ**
+- 동적 쿼리를 작성하고 데이터베이스 작업을 유연하게 처리하기 위해 사용됩니다.
+
+**Mahout**
+- 기계 학습 기반의 라이브러리로, 추천 시스템에서 협업 필터링을 구현할 때 활용됩니다.
+
+**AWS EC2**
+- 스프링 애플리케이션을 배포하기 위한 서버입니다.
+
+**RDS (MySQL)**
+- 안정적인 데이터 관리를 위한 데이터베이스 서버입니다.
+
+**Redis**
+- 캐싱을 통해 빠른 데이터 조회와 고성능 처리를 지원합니다.
+
+**S3**
+- 파일 저장 및 관리를 위한 객체 스토리지 서비스입니다.
+
+**ELB (Elastic Load Balancer)**
+- 애플리케이션 서버의 트래픽을 분산 처리하여 가용성과 안정성을 높입니다.
+
 ### 📕 Co-Working-Tool
 - <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 - <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white">
