@@ -8,7 +8,7 @@
 
 <br><br>
 
-## 프로젝트 소개
+## 📋 프로젝트 소개
 멍티비티(반려경 동반 가능 시설 플랫폼)
 현대 사회에서 반려동물은 가족의 일원으로 자리 잡고 있습니다. 이에 따라 반려견과 함께할 수 있는 공간에 대한 수요가 증가하고 있으며, 반려견과 함께 이동할 수 있는 시설에 대한 정보 또한 중요해졌습니다. 본 프로젝트는 반려견 동반 가능 시설을 찾고자 하는 반려인과 이러한 시설을 제공하는 사업자를 연결하는 플랫폼을 개발하는 것을 목표로 합니다.
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 팀원
+## 👨🏻‍💻 팀원
 
 | <img src="https://github.com/user-attachments/assets/209ee765-9f67-40bb-a5fc-44a588733c8c" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d045766b-332a-4cd2-ae44-213ab1442187" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/c5d2312e-8c9a-442e-ae41-1f8fc8541db9" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/71b3624e-d71a-48d2-9dda-53bc94cb4a9a" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/01189ba3-399d-48e0-83c9-691c1404b3d5" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d85c19eb-1072-48f5-b127-42cd9dfc662d" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/a252f1bf-36b4-4222-b6d3-c151f586d1c3" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/84dcdda9-9d55-413f-853e-caf1ea384d37" width="100px;" alt=""/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -37,14 +37,27 @@
 <br>
 
 
-## 서비스 개발 동기 및 목적
+## 🔎 서비스 개발 동기 및 목적
 반려동물을 양육하고 있는 가구는 23년 기준 28.2%로 점점 증가하는 추세이고, 그 중에서도 강아지를 키우는 비율이 높은 것을 확인할 수 있었습니다
 하지만 반려동물 출입 가능 장소는 제한되어 있고, 이에 대한 정보를 기존 지도에서 쉽게 찾기가 어려웠습니다.
 따라서 저희 서비스는 사용자가 '반려동물 동반 가능 시설을 손쉽게 조회하는 것'과 '반려동물과의 추억 기록'을 목표로 서비스를 개발하였습니다.
 <br/>
 
-## 문제 정의와 솔루션
+## 🎯 문제 정의와 솔루션
+### 문제 정의
+**1. 정보 부족**
+- 반려동물과 함께할 수 있는 시설 정보가 제한적이며, 여러 플랫폼에 흩어져 있어 원하는 정보를 쉽게 찾기 어렵습니다.
 
+**2. 검색의 불편함**
+- 반려동물 동반 가능 시설이라도 강아지의 종이나 체중에 따라 입장 가능 여부가 달라지지만, 기존 플랫폼에서는 이를 세부적으로 검색하기 어렵습니다.
+
+### 솔루션
+**1. 사용자 편의성 개선**
+- 반려동물 동반 가능 시설 공유 플랫폼을 통해 동반 가능한 장소를 한눈에 확인할 수 있으며, 사용자의 반려동물 특성에 맞는 맞춤형 시설을 추천받을 수 있습니다.
+
+**2. 구체적인 검색 필터 제공**
+- 지역과 장소명 검색은 물론, 반려동물의 종이나 체중에 따른 입장 가능 여부까지 세부적으로 검색할 수 있습니다.
+- 검색 시 지역별 날씨 정보도 함께 제공하여 사용자가 더욱 편리하게 검색할 수 있도록 지원합니다.
 
 ## 👩‍💻 서비스 소개
 ### 개요
@@ -163,28 +176,43 @@
   
 <br>
 
-## 💡 Software Arichtecture 
+## 🖥️ Software Arichtecture 
 ![스크린샷 2024-12-19 135045](https://github.com/user-attachments/assets/da8a15c8-f025-4a3c-985d-34437012e3bd)
 
-## Information Arichtecture
+## 💡 Information Arichtecture
 ![IA (1)](https://github.com/user-attachments/assets/8c1b95da-f5e0-4770-9fc8-94528f609d78)
 
-## 💡 ERD
+## 📜 ERD
 ![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753)
 
-## 기술 스택
-### Fronte-End
-### Back-End
-### Co-Working-Tool
+## ⚒️기술 스택
+### 📘 [Fronte-End]
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
+ <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+ <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=Zustand&logoColor=white">
+ <img src="https://img.shields.io/badge/Stroybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
+ <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=Chromatic&logoColor=white">
+ <img src="https://img.shields.io/badge/MSW-171717?style=for-the-badge&logo=Chromatic&logoColor=#FF6A33">
+### 📗 [Back-End]
 
-## Convention
-### Fronte-End
-**Branch Architecture**
-master: 배포가 되는 브랜치
-develop: 배포전 임시
-KAN-[number]: Jira 스토리 번호
+### 📕 Co-Working-Tool
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
-**생성되는 jira branch 이름**
+## 🗂️ Convention
+### Branch Architecture
+master: 배포가 되는 브랜치 <br/>
+develop: 배포전 임시<br/>
+KAN-[number]: Jira 스토리 번호<br/>
+
+### 생성되는 jira branch 이름
 ![Group 39659](https://github.com/user-attachments/assets/f9db5dff-116c-4bf4-a234-09e0f8ba4a67)
 
 ### Commit 
@@ -233,6 +261,4 @@ git commit -m "feat: "
 - bug fix면 어떻게 해결했는지
 ```
 
-
-### Back-End
 
