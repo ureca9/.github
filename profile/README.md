@@ -8,7 +8,7 @@
 
 <br><br>
 
-# 프로젝트 소개
+## 프로젝트 소개
 멍티비티(반려경 동반 가능 시설 플랫폼)
 현대 사회에서 반려동물은 가족의 일원으로 자리 잡고 있습니다. 이에 따라 반려견과 함께할 수 있는 공간에 대한 수요가 증가하고 있으며, 반려견과 함께 이동할 수 있는 시설에 대한 정보 또한 중요해졌습니다. 본 프로젝트는 반려견 동반 가능 시설을 찾고자 하는 반려인과 이러한 시설을 제공하는 사업자를 연결하는 플랫폼을 개발하는 것을 목표로 합니다.
 
@@ -16,18 +16,17 @@
 
 <br>
 
-# 팀원
+## 팀원
 
 | <img src="https://github.com/user-attachments/assets/209ee765-9f67-40bb-a5fc-44a588733c8c" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d045766b-332a-4cd2-ae44-213ab1442187" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/c5d2312e-8c9a-442e-ae41-1f8fc8541db9" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/71b3624e-d71a-48d2-9dda-53bc94cb4a9a" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/01189ba3-399d-48e0-83c9-691c1404b3d5" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/d85c19eb-1072-48f5-b127-42cd9dfc662d" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/a252f1bf-36b4-4222-b6d3-c151f586d1c3" width="100px;" alt=""/> | <img src="https://github.com/user-attachments/assets/84dcdda9-9d55-413f-853e-caf1ea384d37" width="100px;" alt=""/>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [고창준](https://github.com/ckdwns1221) | [금세현](https://github.com/shkum0330) | [김병옥](https://github.com/OkKim99) | [김영동](https://github.com/youngdongkim1) | [이신지](https://github.com/kuma0112) | [이은석](https://github.com/EunSeok-222) | [장현희](https://github.com/hh830) | [채희원](https://github.com/heeeione) | 
 | <b> FE </b> | <b> BE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> | <b> BE </b> | <b> FE </b> |
 
----
-## R&R
+### R&R
 | 파트 | 이름 | 역할 |
 | ------------ | -------------------------------------------------------------- | ----------------------------------------------------- |
-| **FE** | 고창준 | 피그마 디자인, 소셜 로그인, 회원정보 등록, 관심사 설정, 멍샌네컷 담당 |
+| **FE** | 고창준 | 피그마 디자인, 소셜 로그인, 회원정보 등록, 관심사 설정, 멍생네컷 담당 |
 | **BE** | 금세현 | 즐겨찾기, 후기, 금칙어 필터링 |
 | **BE** | 김병옥 | 반려동물 CRUD, 견종 검색, 실시간 인기장소 조회, 장소 상세 조회 |
 | **FE** | 김영동 | 메인페이지, 추천 장소 조회, 핫한 장소 조회, 검색 기능 |
@@ -37,25 +36,25 @@
 | **FE** | 채희원 | 지도 API, 즐겨찾기, 장소 검색, 최근 검색 기록, 길찾기 |
 <br>
 
----
 
-# 서비스 개발 동기 및 목적
+## 서비스 개발 동기 및 목적
 반려동물을 양육하고 있는 가구는 23년 기준 28.2%로 점점 증가하는 추세이고, 그 중에서도 강아지를 키우는 비율이 높은 것을 확인할 수 있었습니다
 하지만 반려동물 출입 가능 장소는 제한되어 있고, 이에 대한 정보를 기존 지도에서 쉽게 찾기가 어려웠습니다.
 따라서 저희 서비스는 사용자가 '반려동물 동반 가능 시설을 손쉽게 조회하는 것'과 '반려동물과의 추억 기록'을 목표로 서비스를 개발하였습니다.
+<br/>
 
-# 문제 정의와 솔루션
+## 문제 정의와 솔루션
 
 
-# 👩‍💻 서비스 소개
-## 개요
-## 주요 기능
-### 1. 소셜 로그인
+## 👩‍💻 서비스 소개
+### 개요
+### 주요 기능
+**1. 소셜 로그인**
 - 카카오 소셜 로그인<br>
   <img src="https://github.com/user-attachments/assets/d2252adf-1129-466d-a8fc-43e70b03be4e" width="300">
 <br>
 
-### 2. 마이페이지
+**2. 마이페이지**
   - 회원 정보 CRUD, 내 반려견 목록 조회 및 등록 가능
     
   - 선호 시설과 선호 지역 정보 수정 가능 <br>
@@ -65,13 +64,13 @@
   <img src="https://github.com/user-attachments/assets/8c896de3-4b03-49bd-9208-0d015aa4df11" width="200">
 <br>
 
-### 3. 반려동물 정보 관리
+**3. 반려동물 정보 관리**
 - 반려동물 프로필 관리 (CRUD) <br>
   <img src="https://github.com/user-attachments/assets/58c1bae1-030b-4914-8f18-671dc7c3ce1e" width="300">
   <img src="https://github.com/user-attachments/assets/9b99baec-89a1-4fbf-8aa6-c0ba26ed1210" width="300">
 <br>
 
-### 4. 검색
+**4. 검색**
 - 검색어로 검색
   
 - 지역, 날짜, 같이 갈 반려동물 선택 후 해당 정보를 반영하여 장소 검색
@@ -85,7 +84,7 @@
 
 <br>
 
-### 5. 즐겨찾기
+**5. 즐겨찾기**
 - 장소에 즐겨찾기를 할 수 있고, 즐겨찾기 한 장소를 모아 볼 수 있다. 
   <br>
   
@@ -94,7 +93,7 @@
 
 <br>
 
-### 6. 후기
+**6. 후기**
 - 장소에 사진, 영상을 포함한 후기를 남길 수 있고, 내가 쓴 후기를 모아 볼 수 있다.
   <br>
   
@@ -103,7 +102,7 @@
 
 <br>
 
-### 7. 지도
+**7. 지도**
 - 즐겨찾기 한 장소의 정보를 알 수 있다.
   
 - 즐겨찾기 한 장소의 위치를 핀을 통해 알 수 있다.
@@ -115,14 +114,14 @@
 
 <br>
 
-### 8. 길찾기
+**8. 길찾기**
 - 현재 위치에서 특정 장소까지 가는 길을 조회할 수 있다.
    <br>
     <img src="https://github.com/user-attachments/assets/372ca62c-91ea-4004-b770-450c6dc04c72" width="400">
 
 <br>
 
-### 9. 추천
+**9. 추천**
 - 콘텐츠 기반 필터링과 협업 필터링을 사용하여 보다 정확한 추천
   
 - 협업 필터링에서 대규모 데이터 처리와 기계 학습 기반 추천 라이브러리 Mahout을 사용
@@ -135,14 +134,14 @@
 
 <br>
 
-### 10. 조회 수 기반 핫한 장소
+**10. 조회 수 기반 핫한 장소**
 - 조회 수를 기반으로 핫한 장소를 카테고리 별로 조회 가능
   <br>
   <img src="https://github.com/user-attachments/assets/eff33e23-8282-4f3c-a4e5-60f5ff722dc1" width="500">
 
 <br>
 
-### 11. 최근 본 장소
+**11. 최근 본 장소**
 - 최근 본 장소 목록 조회 가능
    <br>
   <img src="https://github.com/user-attachments/assets/a3acaaf8-6777-4335-bd51-107127a80837" width="400">
@@ -150,7 +149,7 @@
 
 <br>
 
-### 12. 멍생네컷
+**12. 멍생네컷**
 - 프레임과 이미지 4장을 골라 멍생네컷 생성
 - 이미지는 다운로드 및 공유 가능
 - 나의 멍생네컷 목록과 전체 멍생네컷 목록 조회
@@ -164,34 +163,31 @@
   
 <br>
 
-
----
-# 💡 Software Arichtecture 
+## 💡 Software Arichtecture 
 ![스크린샷 2024-12-19 135045](https://github.com/user-attachments/assets/da8a15c8-f025-4a3c-985d-34437012e3bd)
 
-# Information Arichtecture
+## Information Arichtecture
 ![IA (1)](https://github.com/user-attachments/assets/8c1b95da-f5e0-4770-9fc8-94528f609d78)
 
-# 💡 ERD
+## 💡 ERD
 ![멍멍99](https://github.com/user-attachments/assets/5440b8cb-f3f5-45e5-a30f-16e919d47753)
 
-# 기술 스택
-## Fronte-End
-## Back-End
-## Co-Working-Tool
+## 기술 스택
+### Fronte-End
+### Back-End
+### Co-Working-Tool
 
-# Convention
-## Fronte-End
-### Branch Architecture
+## Convention
+### Fronte-End
+**Branch Architecture**
 master: 배포가 되는 브랜치
 develop: 배포전 임시
 KAN-[number]: Jira 스토리 번호
 
-### 생성되는 jira branch 이름
+**생성되는 jira branch 이름**
 ![Group 39659](https://github.com/user-attachments/assets/f9db5dff-116c-4bf4-a234-09e0f8ba4a67)
 
-### Commit
----
+### Commit 
 <b> Commit Format </b>
 Type: content
 
@@ -203,7 +199,7 @@ feat: Header 스타일 추가
 git commit -m "feat: "
 ```
 
-<b> Commit Type </b>
+**Commit Type**
 | 타입         |설명                                                           | 예시                                                  |
 | ------------ | -------------------------------------------------------------- | ----------------------------------------------------- |
 | **feat**     | 새로운 기능을 추가할 때 사용합니다.                            | `feat: 로그인 폼 유효성 검사 추가`                 |
@@ -220,8 +216,7 @@ git commit -m "feat: "
 | **wip**      | 작업 중이거나 실험적인 변경 사항.                              | `wip: 새로운 인증 방법을 실험 중`                  |
 
 ### Pull Request
----
-### Description
+**Description**
 
 ```
 ## 작업 내용
@@ -239,5 +234,5 @@ git commit -m "feat: "
 ```
 
 
-## Back-End
+### Back-End
 
